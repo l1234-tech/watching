@@ -1,23 +1,29 @@
-# 🎬 НАШИ СМОТРЯШКИ
-
+<div class="md-typeset" style="text-align: center; margin: 3rem 0;">
+  <h1 style="font-size: 3.5rem; color: var(--md-primary-fg-color); text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
+    🎬 НАШИ СМОТРЯШКИ
+  </h1>
+  <p style="font-size: 1.5rem; color: var(--md-default-fg-color--light);">
+    Добро пожаловать в каталог
+  </p>
+</div>
 <div class="media-cards">
 
-<a href="films/index.md" class="media-card">
+<a href="films/" class="media-card">
   <img src="images/films.png" alt="Фильмы">
   <div class="card-caption">🎬 Фильмы</div>
 </a>
 
-<a href="series/index.md" class="media-card">
+<a href="series/" class="media-card">
   <img src="images/series.png" alt="Сериалы">
   <div class="card-caption">📺 Сериалы</div>
 </a>
 
-<a href="anime/index.md" class="media-card">
+<a href="anime/" class="media-card">
   <img src="images/anime.png" alt="Аниме">
   <div class="card-caption">⛩️ Аниме</div>
 </a>
 
-<a href="cartoons/index.md" class="media-card">
+<a href="cartoons/" class="media-card">
   <img src="images/cartoons.png" alt="Мультфильмы">
   <div class="card-caption">🎨 Мультфильмы</div>
 </a>

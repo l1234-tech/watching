@@ -38,8 +38,6 @@ theme:
 plugins:
   - search:
       lang: ru
-  # - minify:
-  #     minify_html: true
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -63,10 +61,10 @@ markdown_extensions:
 nav:
   - Главная: index.md
   - Фильмы:
-      - Фильмы: films/index.md
+      - Главная: films/index.md
   - Сериалы и Шоу:
-      - Сериалы: series/index.md
+      - Главная: series/index.md
   - Аниме:
-      - Аниме: anime/index.md
+      - Главная: anime/index.md
   - Мультфильмы:
-      - Мультфильмы: cartoons/index.md
+      - Главная: cartoons/index.md
